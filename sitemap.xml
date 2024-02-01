@@ -11,11 +11,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/fdiaz1968/ML-Course/intro/</loc>
-         <lastmod>2024-02-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://github.com/fdiaz1968/ML-Course/pandas/</loc>
          <lastmod>2024-02-01</lastmod>
          <changefreq>daily</changefreq>
