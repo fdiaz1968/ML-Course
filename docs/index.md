@@ -1,10 +1,10 @@
-# Introducción básica a Python
+# Supervised Machine Learning
 
 ## Material Clases
 
-El material está disponible en el siguiente [repositorio](https://github.com/fralfaro/DS-Python-Course), para obtener el código de fuente basta con que ejecutes el siguiente comando:
+El material está disponible en el siguiente [repositorio](https://github.com/fdiaz1968/ML-Course), para obtener el código de fuente basta con que ejecutes el siguiente comando:
 
-> `https://github.com/fralfaro/DS-Python-Course`
+> `https://github.com/fdiaz1968/ML-Course`
 
 
 ## Contenidos temáticos
