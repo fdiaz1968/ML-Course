@@ -1,7 +1,7 @@
 # Curso de Python (Template)
 
 ![example workflow](https://github.com/fdiaz1968/ML-Course/actions/workflows/documentation.yml/badge.svg)
-<a href="https://fralfaro.github.io/DS-Python-Course/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
+<a href="https://fdiaz1968.github.io/ML-Course/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
 
 
 ## Descripción del Repositorio
