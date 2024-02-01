@@ -1,6 +1,6 @@
 # Introducción básica a Python
 
-## Material
+## Material Clases
 
 El material está disponible en el siguiente [repositorio](https://github.com/fralfaro/DS-Python-Course), para obtener el código de fuente basta con que ejecutes el siguiente comando:
 
