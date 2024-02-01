@@ -2,13 +2,13 @@
 
 # Project information
 site_name: Home
-site_url: https://github.com/fralfaro/DS-Python-Course
-site_author: Francisco Alfaro
+site_url: https://github.com/fdiaz1968/ML-Course
+site_author: Fernando Diaz
 site_description:
 
 # Repository
-repo_name: fralfaro/DS-Python-Course
-repo_url: https://github.com/fralfaro/DS-Python-Course
+repo_name: fdiaz1968/ML-Course
+repo_url: https://github.com/fdiaz1968/ML-Course
 edit_uri: ''
 
 
@@ -36,7 +36,7 @@ extra_javascript:
 # Theme
 theme:
   name: material
-  language: es
+  language: en
   logo: images/logo.bmp
   favicon: images/logo_python.svg
   features:
@@ -68,9 +68,9 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/fralfaro
+      link: https://github.com/fdiaz1968
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/faam/
+      link: https://www.linkedin.com/in/frdiazh/
     - icon: fontawesome/solid/globe
       link: https://fralfaro.github.io/portfolio/
 
