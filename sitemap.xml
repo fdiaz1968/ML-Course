@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://github.com/fralfaro/DS-Python-Course/</loc>
+         <loc>https://github.com/fdiaz1968/ML-Course/</loc>
          <lastmod>2024-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/fralfaro/DS-Python-Course/__init__/</loc>
+         <loc>https://github.com/fdiaz1968/ML-Course/__init__/</loc>
          <lastmod>2024-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/fralfaro/DS-Python-Course/basic/</loc>
+         <loc>https://github.com/fdiaz1968/ML-Course/basic/</loc>
          <lastmod>2024-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/fralfaro/DS-Python-Course/intro/</loc>
+         <loc>https://github.com/fdiaz1968/ML-Course/intro/</loc>
          <lastmod>2024-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/fralfaro/DS-Python-Course/pandas/</loc>
+         <loc>https://github.com/fdiaz1968/ML-Course/pandas/</loc>
          <lastmod>2024-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/fralfaro/DS-Python-Course/seaborn/</loc>
+         <loc>https://github.com/fdiaz1968/ML-Course/seaborn/</loc>
          <lastmod>2024-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
