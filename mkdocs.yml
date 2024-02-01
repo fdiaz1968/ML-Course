@@ -26,7 +26,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tasklist
   - pymdownx.tabbed
-  - mdx_math
+
 
 # Extra javascript
 extra_javascript:
