@@ -86,9 +86,7 @@ plugins:
 # TOC
 nav:
     - Home: index.md
-    - Estadística e Inferencia:
-        - Clase 5- Test de Hipótesis.ipynb
-    - Regresión y Regularización:
+    - Regresión:
         - Clase 6- Regresión Lineal.ipynb
-        - Clase 7 - Regularizacion.ipynb
+
 
