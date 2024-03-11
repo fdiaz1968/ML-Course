@@ -2,32 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/fdiaz1968/ML-Course/</loc>
-         <lastmod>2024-03-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/fdiaz1968/ML-Course/Clase%205-%20Test%20de%20Hip%C3%B3tesis/</loc>
-         <lastmod>2024-03-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/fdiaz1968/ML-Course/Clase%206-%20Regresi%C3%B3n%20Lineal/</loc>
-         <lastmod>2024-03-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/fdiaz1968/ML-Course/Clase%207%20-%20Regularizacion/</loc>
-         <lastmod>2024-03-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/fdiaz1968/ML-Course/Clase%208-%20Modelos%20No%20Lineales%20de%20Regresion/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fdiaz1968/ML-Course/__init__/</loc>
-         <lastmod>2024-03-04</lastmod>
+         <lastmod>2024-03-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
