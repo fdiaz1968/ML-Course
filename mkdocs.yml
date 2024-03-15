@@ -86,7 +86,10 @@ plugins:
 # TOC
 nav:
     - Home: index.md
-    - Regresión:
+    - Material complementario:
+        - clases_asincronicas/pandas.ipynb
+        - clases_asincronicas/numpy.ipynb
+    - Clases sincrónicas:
         - clase0_Intro.ipynb
         - clase1_regresionlineal.ipynb
 
