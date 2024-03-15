@@ -86,6 +86,7 @@ plugins:
 # TOC
 nav:
     - Home: index.md
+    - Program: program.md
     - Material complementario:
         - clases_asincronicas/pandas.ipynb
         - clases_asincronicas/numpy.ipynb
