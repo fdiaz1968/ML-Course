@@ -87,6 +87,7 @@ plugins:
 nav:
     - Home: index.md
     - Regresión:
-        - Clase 6- Regresión Lineal.ipynb
+        - clase0_Intro.ipynb
+        - clase1_regresionlineal.ipynb
 
 
