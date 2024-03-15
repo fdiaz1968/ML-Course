@@ -20,4 +20,14 @@
          <lastmod>2024-03-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://github.com/fdiaz1968/ML-Course/clases_asincronicas/numpy/</loc>
+         <lastmod>2024-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/fdiaz1968/ML-Course/clases_asincronicas/pandas/</loc>
+         <lastmod>2024-03-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
