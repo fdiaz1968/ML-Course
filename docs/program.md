@@ -13,10 +13,10 @@ La Ciencia de Datos es un campo interdisciplinario que combina métodos, técnic
 - James G., Witten D., Hastie T., & Tibshirani R. (2020). _An Introduction to Statistical Learning, Third Edition_. Springer. (https://www.statlearning.com/)
 - Deisenroth M. P., Faisal A. A., & Ong C. S. (2020). _Mathematics for Machine Learning_. Cambridge University Press.
 
-### V. Evaluaciones
+### IV. Evaluaciones
   Se realizarán evaluaciones periódicas, idealmente después de cada módulo (ver calendario propuesto en AULA).
   
-### IV. Contenidos
+### V. Contenidos
 
 #### A. Data
 - **Aprendiendo de los Datos**
