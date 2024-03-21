@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/fdiaz1968/ML-Course/</loc>
-         <lastmod>2024-03-20</lastmod>
+         <lastmod>2024-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fdiaz1968/ML-Course/__init__/</loc>
-         <lastmod>2024-03-20</lastmod>
+         <lastmod>2024-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fdiaz1968/ML-Course/clase0_Intro/</loc>
-         <lastmod>2024-03-20</lastmod>
+         <lastmod>2024-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fdiaz1968/ML-Course/clase1_regresionlineal/</loc>
-         <lastmod>2024-03-20</lastmod>
+         <lastmod>2024-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fdiaz1968/ML-Course/clase2_%20Resample%20Methods-Bootstrapping/</loc>
-         <lastmod>2024-03-20</lastmod>
+         <lastmod>2024-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fdiaz1968/ML-Course/program/</loc>
-         <lastmod>2024-03-20</lastmod>
+         <lastmod>2024-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fdiaz1968/ML-Course/clases_asincronicas/numpy/</loc>
-         <lastmod>2024-03-20</lastmod>
+         <lastmod>2024-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fdiaz1968/ML-Course/clases_asincronicas/pandas/</loc>
-         <lastmod>2024-03-20</lastmod>
+         <lastmod>2024-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
