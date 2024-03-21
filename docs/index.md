@@ -6,10 +6,10 @@ El material está disponible en el siguiente [repositorio](https://github.com/fd
 
 > `https://github.com/fdiaz1968/ML-Course`
 
-### Sección ICS811 Sebastián Azócar M: 
+### ICS811 - Sección Sebastián Azócar M: 
 - Horario de clases sección : 9 - 12 (14:30 a 17:00 hrs sala P108)
 - Website profesor: https://hizocar.github.io/
 
-### Sección XXXXX Fernando Díaz: 
-- Horario de clases sección : 
-- Website profesor: 
+### ICS811 Sección Fernando Díaz: 
+- Horario de clases sección : 3-6 (09:30 a 12:00 hrs sala A103)
+- Website profesor: https://fdiaz1968.github.io/
