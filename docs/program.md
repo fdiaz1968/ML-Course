@@ -111,4 +111,5 @@ La Ciencia de Datos es un campo interdisciplinario que combina métodos, técnic
 
   ### V. Evaluaciones
 
-  Se realizarán evaluaciones periódicas, idealmente después de cada módulo (ver calendario propuesto en AULA)
+  Se realizarán evaluaciones periódicas, idealmente después de cada módulo (ver calendario propuesto en AULA).
+  
