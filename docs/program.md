@@ -10,7 +10,7 @@
 La Ciencia de Datos es un campo interdisciplinario que combina métodos, técnicas y herramientas de estadística, matemáticas, informática y negocios para obtener conocimiento y generar información útil para la toma de decisiones. Se enfoca en el análisis de grandes volúmenes de datos para descubrir patrones, tendencias y relaciones latentes. Incluye recopilación, limpieza, procesamiento, análisis y visualización de datos. El Machine Learning es una parte fundamental de este campo, proporcionando algoritmos y modelos para extracción de conocimiento y toma de decisiones automatizadas.
 
 ### III. Bibliografía
-- James G., Witten D., Hastie T., & Tibshirani R. (2020). _An Introduction to Statistical Learning, Third Edition_. Springer. (https://www.statlearning.com/)
+- James G., Witten D., Hastie T., Tibshirani R. & Taylor, J. (2023). _An Introduction to Statistical Learning, Third Edition_. Springer. (https://www.statlearning.com/)
 - Deisenroth M. P., Faisal A. A., & Ong C. S. (2020). _Mathematics for Machine Learning_. Cambridge University Press.
 
 ### IV. Evaluaciones
