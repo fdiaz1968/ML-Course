@@ -94,5 +94,6 @@ nav:
         - clase0_Intro.ipynb
         - clase1_regresionlineal.ipynb
         - clase2_ Resample Methods-Bootstrapping.ipynb
+    - Data: data.md
 
 

@@ -1,1 +1,2 @@
-- Healthcare data : https://github.com/fdiaz1968/ML-Course/blob/main/docs/data/healthcare_data.csv
+- [Healthcare](https://usmcl-my.sharepoint.com/:x:/g/personal/sebastian_azocarm_usm_cl/EbPwqjRk3g5CqJV9mu7OJuwBAOm3QqZb_fs8vuE5vLBbUQ?e=L4ZIBy)
+
