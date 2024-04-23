@@ -12,6 +12,7 @@ El material está disponible en el siguiente [repositorio](https://github.com/fd
 - Website profesor: https://hizocar.github.io/
 
 ---
+---
 
 ### Trabajo 1: Regresión Lineal (FECHA LÍMITE 6 MAYO)
 
@@ -25,7 +26,7 @@ El material está disponible en el siguiente [repositorio](https://github.com/fd
 - Seguir los pasos de la clase de regresión lineal. Debe hacer las observaciones en cada paso, dependiendo de los resultados que vaya obteniendo y del contexto de sus datos
 - Prepare una presentación de no más de 10 minutos, mostrando los principales insights y resultados del modelo
 
-##### Rúbrica de Evaluación para Proyecto de Regresión Lineal en Python
+## Rúbrica de Evaluación para Proyecto de Regresión Lineal en Python
 
 ### Parte 1: Análisis en Jupyter Notebook (70 puntos)
 
