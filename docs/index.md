@@ -12,7 +12,6 @@ El material está disponible en el siguiente [repositorio](https://github.com/fd
 - Website profesor: https://hizocar.github.io/
 
 ---
----
 
 ### Trabajo 1: Regresión Lineal (FECHA LÍMITE 6 MAYO)
 
