@@ -95,6 +95,8 @@ nav:
         - clase1_regresionlineal.ipynb
         - clase2_Resample_Methods_Bootstrapping.ipynb
     - Clases zoom: grabaciones.md 
-    - Data: data.md
+    - Evaluaciones: 
+        - evaluacion1.md
+        - evaluacion2.md
 
 
