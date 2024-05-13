@@ -1,4 +1,4 @@
-### Trabajo 1: Regresión Lineal (FECHA LÍMITE 6 MAYO)
+# Trabajo 1: Regresión Lineal (FECHA LÍMITE 6 MAYO)
 
 #### Respecto a la base de datos escogida: 
 - Observaciones mayor o igual a 200.000 
