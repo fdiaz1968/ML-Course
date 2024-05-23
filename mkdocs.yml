@@ -94,6 +94,7 @@ nav:
         - clase0_Intro.ipynb
         - clase1_regresionlineal.ipynb
         - clase2_Resample_Methods_Bootstrapping.ipynb
+        - clase3_regularizacion.ipynb
     - Clases zoom: grabaciones.md 
     - Evaluaciones: 
         - evaluacion1.md
