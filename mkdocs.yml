@@ -96,6 +96,8 @@ nav:
         - clase2_Resample_Methods_Bootstrapping.ipynb
         - clase3_regularizacion.ipynb
         - clase4_modelosnolineales.ipynb
+        - clase5_regresionlogistica.ipynb
+        - clase6_modelosnolineales.ipynb
     - Material audiovisual: grabaciones.md 
     - Evaluaciones: 
         - evaluacion1.md
